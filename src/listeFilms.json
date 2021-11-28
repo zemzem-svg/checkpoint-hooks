@@ -1,0 +1,32 @@
+
+[
+    {
+    
+    "title":"film1", 
+    "description":"comidie",
+     "posterURL":"./images/film1.jpg",
+     "rating" :1
+    },
+    {
+    "title":"film2", 
+    "description":"comidie",
+     "posterURL":"./images/film2.jpg",
+     "rating" :2}
+     ,
+    
+    {
+    "title":"film3", 
+    "description":"comidie",
+     "posterURL":"./images/film3.jpg",
+     "rating" :3},
+    
+    
+    {
+    "title":"film4", 
+    "description":"comidie",
+     "posterURL":"./images/film4.jpg",
+     "rating" :4
+    }
+    
+    
+]
